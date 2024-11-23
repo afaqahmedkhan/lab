@@ -25,8 +25,8 @@ Each folder is a different adventure. Feel free to explore and see what catches 
 
 ## 🛠️ Technologies Used
 
-- **Programming Languages**: Python, JavaScript, Java, and more!
-- **Frameworks**: React, Django, Flask, etc.
+- **Programming Languages**: JavaScript, TypeScript, Python, Java, and more!
+- **Frameworks**: React, Nextjs, Spring, etc.
 - **Tools**: Git, Docker, Kubernetes, and others.
 
 ## 📈 Learning Journey
