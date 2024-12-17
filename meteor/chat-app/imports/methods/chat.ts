@@ -6,5 +6,7 @@ Meteor.methods({
       content,
       createdAt: new Date(),
     });
+
+    console.log('content', content);
   },
 });
