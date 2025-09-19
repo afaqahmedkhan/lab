@@ -11,6 +11,10 @@ func add(x int, y int) int {
 	return x + y
 }
 
+func swap(x, y string) (string, string) {
+	return y, x
+}
+
 func main() {
 	fmt.Println("Hello")
 
@@ -21,4 +25,6 @@ func main() {
 	fmt.Println(math.Pi)
 
 	fmt.Println(add(23, 23))
+
+	fmt.Println(swap("hello", "world"))
 }
